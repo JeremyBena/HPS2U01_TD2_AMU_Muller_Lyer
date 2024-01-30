@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     canvas.height = 250;
 
     const leftLineLength = 100; // Fixed length for the left line
-    let rightLineLength = 100; // Variable for the right line length
+    let rightLineLength = 150; // Variable for the right line length
     const lineY = 100;
     const lineStartX = 100;
     let dragging = false;
