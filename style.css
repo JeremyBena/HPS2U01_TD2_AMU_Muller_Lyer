@@ -17,3 +17,10 @@ h1 {
     font-size: 24px;
     margin-top: 20px;
 }
+
+h2 {
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    margin-top: 18px;
+}
